@@ -38,7 +38,7 @@ npm install
 
 4. Botu başlatın:
 ```bash
-node dex.js
+node index.js
 ```
 
 ## 🛠️ Komutlar
@@ -58,7 +58,7 @@ Discord.js-v14-AFK-sistemi/
 ├── events/
 │   └── messageCreate.js # Mesaj olayları işleyicisi
 ├── config.json         # Bot yapılandırması
-├── dex.js             # Ana bot dosyası
+├── index.js             # Ana bot dosyası
 └── README.md          # Bu dosya
 ```
 
