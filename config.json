@@ -1,0 +1,8 @@
+{
+    "emojis": {
+        "success": "başarılı_tik_emoji_id (EMOJİ FORMATINIZ <:emoji_isminiz:123456789012345678> olmalıdır.)",
+        "info": "bilgi_emoji_id (EMOJİ FORMATINIZ <:emoji_isminiz:123456789012345678> olmalıdır.)",
+        "time": "saat_emoji_id (EMOJİ FORMATINIZ <:emoji_isminiz:123456789012345678> olmalıdır.)",
+        "warning": "uyarı_emoji_id (EMOJİ FORMATINIZ <:emoji_isminiz:123456789012345678> olmalıdır.)"
+    }
+}
