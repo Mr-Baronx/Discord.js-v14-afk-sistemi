@@ -15,7 +15,7 @@ Bu proje, Discord.js v14 kullanılarak geliştirilmiş gelişmiş bir AFK (Away 
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/Discord.js-v14-AFK-sistemi.git
+git clone https://github.com/Mr-Baronx/Discord.js-v14-AFK-sistemi.git
 cd Discord.js-v14-AFK-sistemi
 ```
 
